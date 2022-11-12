@@ -376,7 +376,7 @@ I welcome improvement PRs from anyone with deeper library knowledge than afforde
 
 Can-of-worms #1.
 
-Before we discuss [performance](#performance) let's talk about search quality, because speed is irrelevant when your results are a strange medly of "Oh yeah!" and "WTF?".
+Before we discuss [performance](#performance) let's talk about search quality, because speed is irrelevant when your results are a strange medley of "Oh yeah!" and "WTF?".
 
 Search quality is very subjective.
 What constitutes a good top match in a "typeahead / auto-suggest" case can be a poor match in a "search / find-all" scenario.
@@ -396,7 +396,7 @@ https://leeoniya.github.io/uFuzzy/demos/compare.html?libs=uFuzzy,fuzzysort,Quick
 
 Not only are these poor matches in isolation, but they actually rank higher than literal substrings.
 
-Finishing the search term to **"twilight"**, _still_ scores bizzare results higher:
+Finishing the search term to **"twilight"**, _still_ scores bizarre results higher:
 
 https://leeoniya.github.io/uFuzzy/demos/compare.html?libs=uFuzzy,fuzzysort,QuickScore,Fuse&search=twilight
 
